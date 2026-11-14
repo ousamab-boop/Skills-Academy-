@@ -1,0 +1,6 @@
+{
+  "name": "Skills Academy Qatar",
+  "description": "Explore IELTS, French TCF, Arabic and German at Skills Academy Qatar. Message us on WhatsApp to ask about language courses and test preparation in Qatar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
